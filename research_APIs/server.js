@@ -5,6 +5,7 @@ const mongoose = require('mongoose');
 const path = require('path');
 const elasticsearch= require('elasticsearch');
 const index = require('./routes/index');
+const mlabCred = require('./config')
 const db = require('./db/model');
 // const serveStatic = require("serve-static");
 const app = express();
@@ -29,7 +30,7 @@ app.get('*', function (request, response) {
     response.sendFile(path.resolve(__dirname, 'dist/index.html'));
 });
 app.use('/', index);
-mongoose.connect('mongodb://baibhabmondal:research13@ds141902.mlab.com:41902/research', { useNewUrlParser: true }).then(function(data){
+mongoose.connect(mlabCred, { useNewUrlParser: true }).then(function(data){
 	console.log("database set up")
 }).catch(function(err) {
 	console.log(err)
