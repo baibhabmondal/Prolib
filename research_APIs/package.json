@@ -1,0 +1,42 @@
+{
+  "name": "research_apis",
+  "version": "1.0.0",
+  "engines": {
+    "node": "10.14.0"
+  },
+  "description": "Api module for SrmResearchWebsite",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WebarchClub/research_APIs.git"
+  },
+  "author": "Baibhab Mondal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WebarchClub/research_APIs/issues"
+  },
+  "homepage": "https://github.com/WebarchClub/research_APIs#readme",
+  "dependencies": {
+    "aws-sdk": "^2.306.0",
+    "bcrypt": "^3.0.0",
+    "body-parser": "^1.18.3",
+    "cors": "^2.8.4",
+    "elasticsearch": "^15.1.1",
+    "express": "^4.16.3",
+    "jsonwebtoken": "^8.3.0",
+    "mongoose": "^5.2.3",
+    "mongoose-paginate": "^5.0.3",
+    "morgan": "^1.9.0",
+    "multer": "^1.3.1",
+    "multer-s3": "^2.7.0",
+    "path": "^0.12.7",
+    "s3-nodejs-sample": "^1.0.9"
+  },
+  "devDependencies": {
+    "serve-static": "^1.14.1"
+  }
+}

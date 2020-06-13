@@ -1,0 +1,320 @@
+{
+  "post": [],
+  "profile": {
+
+  "name": "mukul",
+  "email": "mukul@gmail.com",
+  "reg_no": "RA161100301340",
+  "department": "cse",
+  "degree": "btech",
+  "skills": [
+    "node",
+    "vue",
+    "php"
+  ],
+  "interests": [
+    "node",
+    "vue",
+    "php"
+  ]
+
+  },
+  "feedProjects": [
+    {
+      "title": "PREDICTING STUDENTS ACADEMIC PERFORMANCE USING ARTIFICIAL NEURAL NETWORK",
+      "gist": "Artificial neural networks or connectionist systems are computing systems vaguely inspired by the biological neural networks that constitute animal brains",
+      "description": "Artificial neural networks (ANN) or connectionist systems are computing systems vaguely inspired by the biological neural networks that constitute animal brains.[1] Such systems learn to perform tasks by considering examples, generally without being programmed with any task-specific rules. For example, in image recognition, they might learn to identify images that contain cats by analyzing example images that have been manually labeled as cat or no cat and using the results to identify cats in other images. They do this without any prior knowledge about cats, e.g., that they have fur, tails, whiskers and cat-like faces. Instead, they automatically generate identifying characteristics from the learning material that they process.",
+      "faculty": "Dr. John Snow",
+      "stack": [
+        "AI",
+        "Neural Network",
+        "KNN",
+        "K-means"
+      ],
+      "members": [
+        {
+        "userId": "123",
+        "name":"Arunava Banerjee"
+        },
+        {
+         "userId": "124",
+         "name":"Shubam Thakur"
+        }
+      ],
+      "id": 1
+    },
+    {
+      "title": "AUTOMATED MARKET BASKET ANALYSIS SYSTEM",
+      "gist": "The Internet is the global system of interconnected computer networks that use the Internet protocol suite (TCP/IP) to link devices worldwide",
+      "description": "The origins of the Internet date back to research commissioned by the federal government of the United States in the 1960s to build robust, fault-tolerant communication with computer networks.[1] The primary precursor network, the ARPANET, initially served as a backbone for interconnection of regional academic and military networks in the 1980s. The funding of the National Science Foundation Network as a new backbone in the 1980s, as well as private funding for other commercial extensions, led to worldwide participation in the development of new networking technologies, and the merger of many networks.[2] The linking of commercial networks and enterprises by the early 1990s marks the beginning of the transition to the modern Internet,[3] and generated a sustained exponential growth as generations of institutional, personal, and mobile computers were connected to the network. Although the Internet was widely used by academia since the 1980s, the commercialization incorporated its services and technologies into virtually every aspect of modern life.",
+      "faculty": "Dr. Ramsey Bolton ",
+      "stack": [
+        "IOT",
+        "c#",
+        "Algorihtms"
+      ],
+      "members": [
+        {
+          "userId": "122",
+          "name": "Arya"
+        },
+        {
+          "userId": "144",
+          "name": "Ramsey"
+        }
+      ],
+      "id": 2
+    },
+    {
+      "title": "ACADEMIC PERFORMANCE USING ARTIFICIAL NEURAL NETWORK",
+      "gist": "Artificial neural networks or connectionist systems are computing systems vaguely inspired by the biological neural networks that constitute animal brains",
+      "description": "Artificial neural networks (ANN) or connectionist systems are computing systems vaguely inspired by the biological neural networks that constitute animal brains.[1] Such systems learn to perform tasks by considering examples, generally without being programmed with any task-specific rules. For example, in image recognition, they might learn to identify images that contain cats by analyzing example images that have been manually labeled as cat or no cat and using the results to identify cats in other images. They do this without any prior knowledge about cats, e.g., that they have fur, tails, whiskers and cat-like faces. Instead, they automatically generate identifying characteristics from the learning material that they process.",
+      "faculty": "Dr. John Snow",
+      "stack": [
+        "AI",
+        "Neural Network",
+        "KNN",
+        "K-means"
+      ],
+      "members": [
+        {
+          "userId": "123",
+          "name": "Arunava Banerjee"
+        },
+        {
+          "userId": "124",
+          "name": "Shubam Thakur"
+        }
+      ],
+      "id": 3
+    },
+    {
+      "title": "MARKET BASKET ANALYSIS SYSTEM",
+      "gist": "The Internet is the global system of interconnected computer networks that use the Internet protocol suite (TCP/IP) to link devices worldwide",
+      "description": "The origins of the Internet date back to research commissioned by the federal government of the United States in the 1960s to build robust, fault-tolerant communication with computer networks.[1] The primary precursor network, the ARPANET, initially served as a backbone for interconnection of regional academic and military networks in the 1980s. The funding of the National Science Foundation Network as a new backbone in the 1980s, as well as private funding for other commercial extensions, led to worldwide participation in the development of new networking technologies, and the merger of many networks.[2] The linking of commercial networks and enterprises by the early 1990s marks the beginning of the transition to the modern Internet,[3] and generated a sustained exponential growth as generations of institutional, personal, and mobile computers were connected to the network. Although the Internet was widely used by academia since the 1980s, the commercialization incorporated its services and technologies into virtually every aspect of modern life.",
+      "faculty": "Dr. Ramsey Bolton ",
+      "stack": [
+        "IOT",
+        "c#",
+        "Algorihtms"
+      ],
+      "members": [
+        {
+          "userId": "125",
+          "name": "Gaitonde"
+        },
+        {
+          "userId": "124",
+          "name": "Shubam Thakur"
+        }
+      ],
+      "id": 4
+    }
+  ],
+  "personalProjects": [
+    {
+      "title": "Meetup",
+      "gist": "A meetup organizing site, using Vue, Vuex, Vuetify and Firebase",
+      "description": "Artificial neural networks (ANN) or connectionist systems are computing systems vaguely inspired by the biological neural networks that constitute animal brains.[1] Such systems learn to perform tasks by considering examples, generally without being programmed with any task-specific rules. For example, in image recognition, they might learn to identify images that contain cats by analyzing example images that have been manually labeled as cat or no cat and using the results to identify cats in other images. They do this without any prior knowledge about cats, e.g., that they have fur, tails, whiskers and cat-like faces. Instead, they automatically generate identifying characteristics from the learning material that they process.",
+      "stack": [
+        "AI",
+        "Neural Network",
+        "KNN",
+        "K-means"
+      ],
+      "members": [
+        "Rohit Mehra"
+      ],
+      "id": 1
+    },
+    {
+      "title": "Atlas",
+      "gist": "A city finding app using Vue, NodeJs and Elasticsearch",
+      "description": "Artificial neural networks (ANN) or connectionist systems are computing systems vaguely inspired by the biological neural networks that constitute animal brains.[1] Such systems learn to perform tasks by considering examples, generally without being programmed with any task-specific rules. For example, in image recognition, they might learn to identify images that contain cats by analyzing example images that have been manually labeled as cat or no cat and using the results to identify cats in other images. They do this without any prior knowledge about cats, e.g., that they have fur, tails, whiskers and cat-like faces. Instead, they automatically generate identifying characteristics from the learning material that they process.",
+      "stack": [
+        "AI",
+        "Neural Network",
+        "KNN",
+        "K-means"
+      ],
+      "members": [
+        "Rohit Mehra"
+      ],
+      "id": 2
+    },
+    {
+      "title": "Kladi",
+      "gist": " a decentralized knowledge sharing (and aggregation) platform",
+      "description": "Artificial neural networks (ANN) or connectionist systems are computing systems vaguely inspired by the biological neural networks that constitute animal brains.[1] Such systems learn to perform tasks by considering examples, generally without being programmed with any task-specific rules. For example, in image recognition, they might learn to identify images that contain cats by analyzing example images that have been manually labeled as cat or no cat and using the results to identify cats in other images. They do this without any prior knowledge about cats, e.g., that they have fur, tails, whiskers and cat-like faces. Instead, they automatically generate identifying characteristics from the learning material that they process.",
+      "stack": [
+        "AI",
+        "Neural Network",
+        "KNN",
+        "K-means"
+      ],
+      "members": [
+        "Rohit Mehra"
+      ],
+      "id": 3
+    },
+    {
+      "title": "Meetup 2",
+      "gist": "A meetup organizing site, using Vue, Vuex, Vuetify and Firebase",
+      "description": "Artificial neural networks (ANN) or connectionist systems are computing systems vaguely inspired by the biological neural networks that constitute animal brains.[1] Such systems learn to perform tasks by considering examples, generally without being programmed with any task-specific rules. For example, in image recognition, they might learn to identify images that contain cats by analyzing example images that have been manually labeled as cat or no cat and using the results to identify cats in other images. They do this without any prior knowledge about cats, e.g., that they have fur, tails, whiskers and cat-like faces. Instead, they automatically generate identifying characteristics from the learning material that they process.",
+      "stack": [
+        "AI",
+        "Neural Network",
+        "KNN",
+        "K-means"
+      ],
+      "members": [
+        "Rohit Mehra"
+      ],
+      "id": 4
+    },
+    {
+      "title": "Atlas 2",
+      "gist": "A city finding app using Vue, NodeJs and Elasticsearch",
+      "description": "Artificial neural networks (ANN) or connectionist systems are computing systems vaguely inspired by the biological neural networks that constitute animal brains.[1] Such systems learn to perform tasks by considering examples, generally without being programmed with any task-specific rules. For example, in image recognition, they might learn to identify images that contain cats by analyzing example images that have been manually labeled as cat or no cat and using the results to identify cats in other images. They do this without any prior knowledge about cats, e.g., that they have fur, tails, whiskers and cat-like faces. Instead, they automatically generate identifying characteristics from the learning material that they process.",
+      "stack": [
+        "AI",
+        "Neural Network",
+        "KNN",
+        "K-means"
+      ],
+      "members": [
+        "Rohit Mehra"
+      ],
+      "id": 5
+    },
+    {
+      "title": "Kladi 2",
+      "gist": " a decentralized knowledge sharing (and aggregation) platform",
+      "description": "Artificial neural networks (ANN) or connectionist systems are computing systems vaguely inspired by the biological neural networks that constitute animal brains.[1] Such systems learn to perform tasks by considering examples, generally without being programmed with any task-specific rules. For example, in image recognition, they might learn to identify images that contain cats by analyzing example images that have been manually labeled as cat or no cat and using the results to identify cats in other images. They do this without any prior knowledge about cats, e.g., that they have fur, tails, whiskers and cat-like faces. Instead, they automatically generate identifying characteristics from the learning material that they process.",
+      "stack": [
+        "AI",
+        "Neural Network",
+        "KNN",
+        "K-means"
+      ],
+      "members": [
+        "Rohit Mehra"
+      ],
+      "id": 1
+    },
+    {
+      "title": "Webarch",
+      "gist": "dkajwdaj",
+      "description": "dawda",
+      "link": "linkede",
+      "stack": [],
+      "members": [
+        "Gilfoyle"
+      ],
+      "id": 6
+    }
+  ],
+  "popularProjects" : [
+    {
+      "title": "PREDICTING STUDENTS ACADEMIC PERFORMANCE",
+      "gist": "Artificial neural networks or connectionist systems are computing systems vaguely inspired by the biological neural networks that constitute animal brains",
+      "description": "Artificial neural networks (ANN) or connectionist systems are computing systems vaguely inspired by the biological neural networks that constitute animal brains.[1] Such systems learn to perform tasks by considering examples, generally without being programmed with any task-specific rules. For example, in image recognition, they might learn to identify images that contain cats by analyzing example images that have been manually labeled as cat or no cat and using the results to identify cats in other images. They do this without any prior knowledge about cats, e.g., that they have fur, tails, whiskers and cat-like faces. Instead, they automatically generate identifying characteristics from the learning material that they process.",
+      "faculty": "Dr. John Snow",
+      "stack": [
+        "AI",
+        "Neural Network",
+        "KNN",
+        "K-means"
+      ],
+      "members": [
+        "Arunava Banerjee",
+        "Shubam Thakur"
+      ],
+      "id": 1
+    },
+    {
+      "title": "AUTOMATED MARKET BASKET",
+      "gist": "The Internet is the global system of interconnected computer networks that use the Internet protocol suite (TCP/IP) to link devices worldwide",
+      "description": "The origins of the Internet date back to research commissioned by the federal government of the United States in the 1960s to build robust, fault-tolerant communication with computer networks.[1] The primary precursor network, the ARPANET, initially served as a backbone for interconnection of regional academic and military networks in the 1980s. The funding of the National Science Foundation Network as a new backbone in the 1980s, as well as private funding for other commercial extensions, led to worldwide participation in the development of new networking technologies, and the merger of many networks.[2] The linking of commercial networks and enterprises by the early 1990s marks the beginning of the transition to the modern Internet,[3] and generated a sustained exponential growth as generations of institutional, personal, and mobile computers were connected to the network. Although the Internet was widely used by academia since the 1980s, the commercialization incorporated its services and technologies into virtually every aspect of modern life.",
+      "faculty": "Dr. Ramsey Bolton ",
+      "stack": [
+        "IOT",
+        "c#",
+        "Algorihtms"
+      ],
+      "members": [
+        "Arya",
+        "Brandon"
+      ],
+      "id": 2
+    },
+    {
+      "title": "ARTIFICIAL NEURAL NETWORK",
+      "gist": "Artificial neural networks or connectionist systems are computing systems vaguely inspired by the biological neural networks that constitute animal brains",
+      "description": "Artificial neural networks (ANN) or connectionist systems are computing systems vaguely inspired by the biological neural networks that constitute animal brains.[1] Such systems learn to perform tasks by considering examples, generally without being programmed with any task-specific rules. For example, in image recognition, they might learn to identify images that contain cats by analyzing example images that have been manually labeled as cat or no cat and using the results to identify cats in other images. They do this without any prior knowledge about cats, e.g., that they have fur, tails, whiskers and cat-like faces. Instead, they automatically generate identifying characteristics from the learning material that they process.",
+      "faculty": "Dr. John Snow",
+      "stack": [
+        "AI",
+        "Neural Network",
+        "KNN",
+        "K-means"
+      ],
+      "members": [
+        "Arunava Banerjee",
+        "Shubam Thakur"
+      ],
+      "id": 3
+    },
+    {
+      "title": "MARKET BASKET ANALYSIS SYSTEM",
+      "gist": "The Internet is the global system of interconnected computer networks that use the Internet protocol suite (TCP/IP) to link devices worldwide",
+      "description": "The origins of the Internet date back to research commissioned by the federal government of the United States in the 1960s to build robust, fault-tolerant communication with computer networks.[1] The primary precursor network, the ARPANET, initially served as a backbone for interconnection of regional academic and military networks in the 1980s. The funding of the National Science Foundation Network as a new backbone in the 1980s, as well as private funding for other commercial extensions, led to worldwide participation in the development of new networking technologies, and the merger of many networks.[2] The linking of commercial networks and enterprises by the early 1990s marks the beginning of the transition to the modern Internet,[3] and generated a sustained exponential growth as generations of institutional, personal, and mobile computers were connected to the network. Although the Internet was widely used by academia since the 1980s, the commercialization incorporated its services and technologies into virtually every aspect of modern life.",
+      "faculty": "Dr. Ramsey Bolton ",
+      "stack": [
+        "IOT",
+        "c#",
+        "Algorihtms"
+      ],
+      "members": [
+        "Arya",
+        "Brandon"
+      ],
+      "id": 4
+    }
+  ],
+  "bookmarkProjects": [
+    {
+      "title": "PREDICTING STUDENTS ACADEMIC PERFORMANCE USING ARTIFICIAL NEURAL NETWORK",
+      "gist": "Artificial neural networks or connectionist systems are computing systems vaguely inspired by the biological neural networks that constitute animal brains",
+      "description": "Artificial neural networks (ANN) or connectionist systems are computing systems vaguely inspired by the biological neural networks that constitute animal brains.[1] Such systems learn to perform tasks by considering examples, generally without being programmed with any task-specific rules. For example, in image recognition, they might learn to identify images that contain cats by analyzing example images that have been manually labeled as cat or no cat and using the results to identify cats in other images. They do this without any prior knowledge about cats, e.g., that they have fur, tails, whiskers and cat-like faces. Instead, they automatically generate identifying characteristics from the learning material that they process.",
+      "faculty": "Dr. John Snow",
+      "stack": [
+        "AI",
+        "Neural Network",
+        "KNN",
+        "K-means"
+      ],
+      "members": [
+        "Arunava Banerjee",
+        "Shubam Thakur"
+      ],
+      "id": 1
+    },
+    {
+      "title": "AUTOMATED MARKET BASKET ANALYSIS SYSTEM",
+      "gist": "The Internet is the global system of interconnected computer networks that use the Internet protocol suite (TCP/IP) to link devices worldwide",
+      "description": "The origins of the Internet date back to research commissioned by the federal government of the United States in the 1960s to build robust, fault-tolerant communication with computer networks.[1] The primary precursor network, the ARPANET, initially served as a backbone for interconnection of regional academic and military networks in the 1980s. The funding of the National Science Foundation Network as a new backbone in the 1980s, as well as private funding for other commercial extensions, led to worldwide participation in the development of new networking technologies, and the merger of many networks.[2] The linking of commercial networks and enterprises by the early 1990s marks the beginning of the transition to the modern Internet,[3] and generated a sustained exponential growth as generations of institutional, personal, and mobile computers were connected to the network. Although the Internet was widely used by academia since the 1980s, the commercialization incorporated its services and technologies into virtually every aspect of modern life.",
+      "faculty": "Dr. Ramsey Bolton ",
+      "stack": [
+        "IOT",
+        "c#",
+        "Algorihtms"
+      ],
+      "members": [
+        "Arya",
+        "Brandon"
+      ],
+      "id": 2
+    }
+  ]
+}
