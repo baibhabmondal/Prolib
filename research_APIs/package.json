@@ -22,7 +22,7 @@
   "homepage": "https://github.com/WebarchClub/research_APIs#readme",
   "dependencies": {
     "aws-sdk": "^2.306.0",
-    "bcrypt": "^3.0.0",
+    "bcrypt": "^5.0.0",
     "body-parser": "^1.18.3",
     "cors": "^2.8.4",
     "elasticsearch": "^15.1.1",
