@@ -21,7 +21,7 @@
   },
   "homepage": "https://github.com/WebarchClub/research_APIs#readme",
   "dependencies": {
-    "aws-sdk": "^2.306.0",
+    "aws-sdk": "^2.814.0",
     "bcrypt": "^3.0.0",
     "body-parser": "^1.18.3",
     "cors": "^2.8.4",
